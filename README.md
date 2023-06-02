@@ -1,2 +1,2 @@
-# Hangman
-A simple hangman game developed using java for Android.
+# Adam Asmaca
+Java ile geliştirilen basit bir adam asmaca oyunu.
